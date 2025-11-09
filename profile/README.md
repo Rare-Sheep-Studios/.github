@@ -15,9 +15,9 @@ Welcome to **Rare Sheep Studios**! We're a small but chaotic collective of devel
 ## Projects (Public-Friendly Overview)
 
 - **ELRB** – Our main ongoing research facility game. Think science, danger, and slightly questionable decisions.
-- **Holdout** – Tactical experiments and small skirmishes in game form.
-- **Skybreak** – Spacey adventures with explosions and maybe lore.
-- **FRACTURED** – Collaborative projects with mysterious consequences.
+- **Holdout** – A.K.A The L4D2 wannabe.
+- **Skybreak** – Top-Down camera colony builder, inspired by Helldivers 2, Interstellar, and more...
+- **FRACTURED** – Pyshogical horror, or something... yeah.
 - **Wool & Dice** – Self-hosted DnD-style fun; modular and open for tinkering.
 - **Other Projects** – Some things are in super early chaos stage, others we forgot exist, but hey, that’s part of the fun.
 
